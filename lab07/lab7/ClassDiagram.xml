@@ -1,0 +1,41 @@
+<ClassDiagram>
+  <Class name="CommentAttribute">
+    <Property>System.String Comment</Property>
+    <Property>System.Object TypeId</Property>
+  </Class>
+  <Enum name="eClassificationAnimal">
+    <Comment>Types of animals enumeration</Comment>
+  </Enum>
+  <Enum name="eFavoriteFood">
+    <Comment>Favorite food enumeration</Comment>
+  </Enum>
+  <Class name="Animal">
+    <Comment>Abstract class for creating animals</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+  <Class name="Cow">
+    <Comment>Class for cow</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+  <Class name="Lion">
+    <Comment>Class for lion</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+  <Class name="Pig">
+    <Comment>Class for pig</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+  </Class>
+  <Class name="Program" />
+</ClassDiagram>
