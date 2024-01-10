@@ -1,0 +1,5 @@
+/Users/maximkukuruz/Projects/Lab_06/main/obj/Debug/net7.0/main.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/Lab_06/main/obj/Debug/net7.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/Lab_06/main/obj/Debug/net7.0/main.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/Lab_06/main/obj/Debug/net7.0/main.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/Lab_06/main/obj/Debug/net7.0/main.csproj.CoreCompileInputs.cache

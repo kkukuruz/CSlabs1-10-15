@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPazi7wv+crwF7KLfshP5L1HRlTo4t8E0lNUnniNMd+KUz4HOGTu6aSWE5h4BjAlJV+jBxMO3ruXcYECsGoZPw==",
+  "success": true,
+  "projectFilePath": "/Users/maximkukuruz/Projects/Lab_06/Programm/Program.csproj",
+  "expectedPackageFiles": [
+    "/Users/maximkukuruz/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
