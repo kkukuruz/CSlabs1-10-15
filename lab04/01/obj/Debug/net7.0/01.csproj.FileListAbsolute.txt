@@ -1,0 +1,15 @@
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/01
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/01.deps.json
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/01.runtimeconfig.json
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/01.dll
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/01.pdb
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.csproj.CoreCompileInputs.cache
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.dll
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/refint/01.dll
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.pdb
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/01.genruntimeconfig.cache
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/ref/01.dll

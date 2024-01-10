@@ -1,0 +1,15 @@
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.csproj.CoreCompileInputs.cache
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/lab04
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/lab04.deps.json
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/lab04.runtimeconfig.json
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/lab04.dll
+/Users/maximkukuruz/Projects/lab04/lab04/bin/Debug/net7.0/lab04.pdb
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.dll
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/refint/lab04.dll
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.pdb
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/lab04.genruntimeconfig.cache
+/Users/maximkukuruz/Projects/lab04/lab04/obj/Debug/net7.0/ref/lab04.dll
