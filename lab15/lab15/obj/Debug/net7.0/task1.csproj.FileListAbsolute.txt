@@ -1,0 +1,15 @@
+/Users/maximkukuruz/Projects/lab15/lab15/bin/Debug/net7.0/task1
+/Users/maximkukuruz/Projects/lab15/lab15/bin/Debug/net7.0/task1.deps.json
+/Users/maximkukuruz/Projects/lab15/lab15/bin/Debug/net7.0/task1.runtimeconfig.json
+/Users/maximkukuruz/Projects/lab15/lab15/bin/Debug/net7.0/task1.dll
+/Users/maximkukuruz/Projects/lab15/lab15/bin/Debug/net7.0/task1.pdb
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.dll
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/refint/task1.dll
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.pdb
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/task1.genruntimeconfig.cache
+/Users/maximkukuruz/Projects/lab15/lab15/obj/Debug/net7.0/ref/task1.dll
