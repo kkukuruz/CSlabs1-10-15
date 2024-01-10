@@ -1,0 +1,15 @@
+/Users/maximkukuruz/Projects/lab8/lab8/bin/Debug/net7.0/ser
+/Users/maximkukuruz/Projects/lab8/lab8/bin/Debug/net7.0/ser.deps.json
+/Users/maximkukuruz/Projects/lab8/lab8/bin/Debug/net7.0/ser.runtimeconfig.json
+/Users/maximkukuruz/Projects/lab8/lab8/bin/Debug/net7.0/ser.dll
+/Users/maximkukuruz/Projects/lab8/lab8/bin/Debug/net7.0/ser.pdb
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.csproj.CoreCompileInputs.cache
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.dll
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/refint/ser.dll
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.pdb
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ser.genruntimeconfig.cache
+/Users/maximkukuruz/Projects/lab8/lab8/obj/Debug/net7.0/ref/ser.dll
