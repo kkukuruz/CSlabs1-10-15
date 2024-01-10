@@ -1,0 +1,15 @@
+/Users/maximkukuruz/Projects/lab01/No1/bin/Debug/net7.0/No2
+/Users/maximkukuruz/Projects/lab01/No1/bin/Debug/net7.0/No2.deps.json
+/Users/maximkukuruz/Projects/lab01/No1/bin/Debug/net7.0/No2.runtimeconfig.json
+/Users/maximkukuruz/Projects/lab01/No1/bin/Debug/net7.0/No2.dll
+/Users/maximkukuruz/Projects/lab01/No1/bin/Debug/net7.0/No2.pdb
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.csproj.CoreCompileInputs.cache
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.dll
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/refint/No2.dll
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.pdb
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/No2.genruntimeconfig.cache
+/Users/maximkukuruz/Projects/lab01/No1/obj/Debug/net7.0/ref/No2.dll
