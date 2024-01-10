@@ -1,0 +1,15 @@
+/Users/maximkukuruz/Projects/lab8/deser/bin/Debug/net7.0/deser
+/Users/maximkukuruz/Projects/lab8/deser/bin/Debug/net7.0/deser.deps.json
+/Users/maximkukuruz/Projects/lab8/deser/bin/Debug/net7.0/deser.runtimeconfig.json
+/Users/maximkukuruz/Projects/lab8/deser/bin/Debug/net7.0/deser.dll
+/Users/maximkukuruz/Projects/lab8/deser/bin/Debug/net7.0/deser.pdb
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.csproj.CoreCompileInputs.cache
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.dll
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/refint/deser.dll
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.pdb
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/deser.genruntimeconfig.cache
+/Users/maximkukuruz/Projects/lab8/deser/obj/Debug/net7.0/ref/deser.dll
